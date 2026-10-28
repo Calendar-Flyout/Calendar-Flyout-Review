@@ -94,7 +94,7 @@ The bundled FluentFlyouts tray implementation is split across these files:
 For appearance-related reference, [ThemeHelper.cs](FluentFlyouts.Flyouts/Helpers/ThemeHelper.cs) queries the system's dark-mode preference.
 These implementation details belong to the reference project.
 
-![Calendar Flyout event details with an online meeting action](scripts/rr2.png)
+![Calendar Flyout event details with an online meeting action](scripts/rr2.gif)
 
 ## Frequently asked questions
 
